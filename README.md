@@ -29,8 +29,13 @@ Since hourly data can be highly noisy, we recommend applying smoothing methods l
 
 ### REFERENCES
 [1] Politis, A.; Doka, K.; Koziris, N. Ether price prediction using advanced deep learning models. In Proceedings of the 2021 IEEE International Conference on Blockchain and Cryptocurrency (ICBC), Sydney, Australia, 3–6 May 2021; pp. 1–3.
+
 [2] Patrick Jaquart, David Dann, and Christof Weinhardt (2021, March 18). Short-term bitcoin market prediction via machine learning. The Journal of Finance and Data Science. Retrieved February 28, 2023, from https://www.sciencedirect.com/science/article/pii/S2405918821000027
+
 [3] Aggarwal, Apoorva, Isha Gupta, Novesh Garg, and Anurag Goel. 2019. Deep Learning Approach to Determine the Impact of Socio-Economic Factors on Bitcoin Price Prediction. Paper presented at 2019 Twelfth International Conference on Contemporary Computing (IC3), Noida, India, August 8–10.
+
 [4] Liu, Mingxi, Guowen Li, Jianping Li, Xiaoqian Zhu, and Yinhong Yao. 2021. Forecasting the price of Bitcoin using deep learning. Finance Research Letters 40: 101755.
+
 [5] “Bitcoin Sentiment – Bull & Bear Index.” Augmento, 14 Apr. 2020, https://www.augmento.ai/bitcoin-sentiment/.
+
 [6] Crypto Exchange: Bitcoin Exchange: Bitcoin trading. KuCoin. (n.d.). Retrieved February 28, 2023, from https://www.kucoin.com/
